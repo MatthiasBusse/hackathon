@@ -1,7 +1,9 @@
-print("Hello")
+print("Hola")
 
 
 for x in range(5):
     print("Moin!")
 
-print("Hello")
+print("Hola")
+
+print("Hallo")
